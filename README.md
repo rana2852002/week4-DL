@@ -15,7 +15,7 @@ This project implements an image classification pipeline using PyTorch.
 ## How to Run
 Open the notebook and run all cells sequentially.
 
--------------------------------------------
+
 
 # Image Classification Assignment -2 – PyTorch
 
@@ -30,7 +30,7 @@ This project implements an image classification pipeline using PyTorch.
 - Python
 - PyTorch
 - NumPy
--------------------------------------------
+
 # Deep Learning Assignment 3
 
 This notebook covers core deep learning concepts using PyTorch.
@@ -46,7 +46,7 @@ This notebook covers core deep learning concepts using PyTorch.
 
 ## Usage
 Run all notebook cells sequentially.
--------------------------------------------
+
 
 # Deep Learning Assignment 4
 
@@ -63,7 +63,7 @@ This assignment focuses on core neural network components and training using PyT
 
 ## How to Run
 Open the notebook and run all cells in order.
--------------------------------------------
+
 
 # Intel Image Classification Project
 
